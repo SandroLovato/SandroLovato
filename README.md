@@ -10,14 +10,18 @@ Olá Eu Sou o Sandro Lovato
 </div>  
   <div style="display: inline_block"><br>
   <img align="center" alt="Sandro-Linux" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Sandro-Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="Sandro-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Sandro-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Sandro-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Sandro-Debian" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
+  <img align="center" alt="Sandro-Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">
+  <img align="center" alt="Sandro-Firefox" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg">
+  <img align="center" alt="Sandro-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
   <img align="center" alt="Sandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Sandro-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-  
-  
+  <img align="center" alt="Sandro-Moodle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg">
+  <img align="center" alt="Sandro-Putty" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg"> 
+  <img align="center" alt="Sandro-Raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center" alt="Sandro-Tomcat" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg">
+  <img align="center" alt="Sandro-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">  
+  <img align="center" alt="Sandro-Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg">  
+    
   ##
  
 <div> 
