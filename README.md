@@ -1,7 +1,8 @@
 Olá Eu Sou o Sandro Lovato
 
-- 🔭 Hoje trabalho com Linux 🐧 e sou Analista de Sistemas
-- 🌱 Estudando Linux 🐧 e Sistemas
+- 🔭 Analista de Sistemas
+- 🖥️ Formado em Gestão da Tecnologia da Informação
+- 🌱 Estudando Linux 🐧 e Programação 📚
 
 <div>
   <a href="https://github.com/SandroLovato">
