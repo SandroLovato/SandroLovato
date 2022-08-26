@@ -23,7 +23,7 @@ Olá Eu Sou o Sandro Lovato
   <img align="center" alt="Sandro-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">  
   <img align="center" alt="Sandro-Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg"> 
   <img align="center" alt="Sandro-Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg">
-    
+  <img align="center" alt="Sandro-Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/android/android-plain-wordmark.svg">
   ##
  
 <div> 
