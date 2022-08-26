@@ -14,7 +14,7 @@ Olá Eu Sou o Sandro Lovato
   <img align="center" alt="Sandro-Debian" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/debian/debian-original.svg">
   <img align="center" alt="Sandro-Filezilla" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/filezilla/filezilla-plain.svg">
   <img align="center" alt="Sandro-Firefox" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/firefox/firefox-original.svg">
-  <img align="center" alt="Sandro-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg">
+  <img align="center" alt="Sandro-Github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg">
   <img align="center" alt="Sandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sandro-Moodle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg">
   <img align="center" alt="Sandro-Putty" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg"> 
