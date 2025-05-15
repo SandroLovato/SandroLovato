@@ -18,7 +18,7 @@ Olá Eu Sou o Sandro Lovato
   <img align="center" alt="Sandro-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Sandro-Moodle" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/moodle/moodle-original.svg">
   <img align="center" alt="Sandro-Putty" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/putty/putty-original.svg"> 
-  <img align="center" alt="Sandro-Raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original.svg">
+  <img align="center" alt="Sandro-Raspberry" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/raspberrypi/raspberrypi-original-wordmark.svg">
   <img align="center" alt="Sandro-Tomcat" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/tomcat/tomcat-original.svg">
   <img align="center" alt="Sandro-Ubuntu" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-plain.svg">  
   <img align="center" alt="Sandro-Atom" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/atom/atom-original.svg"> 
